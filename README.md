@@ -224,7 +224,7 @@ This is a list of some useful tool and resources used in the study of this proje
 [SQLite-url]: https://sqlite.org/
 
 [YouTube.com]: https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
-[YouTube-url]: https://youtu.be/I2C0B-_EbtU
+[YouTube-url]: https://www.youtube.com/watch?v=CKmG25rpj0g&t=1s
 
 [Facebook.com]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 [Linkedin.com]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
